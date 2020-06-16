@@ -1,0 +1,39 @@
+{
+    "ALL_USERS": "http://cms.imaginesignage.com/users/",
+    "ADD_USER": "http://cms.imaginesignage.com/users/add",
+    "ADD_USER_SECURE": "http://cms.imaginesignage.com/users/",
+    "DELETE_USER": "http://cms.imaginesignage.com/users/delete",
+
+    "USER_AUTH": "http://cms.imaginesignage.com/auth",
+    "GET_AUTH_USER": "http://cms.imaginesignage.com/auth/user",
+
+    "ALL_PRODUCTS": "http://cms.imaginesignage.com/products/",
+    "ADD_PRODUCT": "http://cms.imaginesignage.com/products/add",
+    "DELETE_PRODUCT": "http://cms.imaginesignage.com/products/delete",
+
+    "ADD_ORDER" : "http://cms.imaginesignage.com/orders/add",
+
+    "ALL_BLOGS": "http://cms.imaginesignage.com/blogs/",
+    "ADD_BLOG": "http://cms.imaginesignage.com/blogs/add",
+    "DELETE_BLOG": "http://cms.imaginesignage.com/blogs/delete",
+
+    "ALL_CLIENTS": "http://cms.imaginesignage.com/clients/",
+    "ADD_CLIENT": "http://cms.imaginesignage.com/clients/add",
+    "DELETE_CLIENT": "http://cms.imaginesignage.com/clients/delete",
+
+    "ALL_TESTIMONIALS": "http://cms.imaginesignage.com/testimonials/",
+    "ADD_TESTIMONIAL": "http://cms.imaginesignage.com/testimonials/add",
+    "DELETE_TESTIMONIAL": "http://cms.imaginesignage.com/testimonials/delete",
+
+    "ALL_WIDGETS": "http://cms.imaginesignage.com/widgets/",
+    "ADD_WIDGET": "http://cms.imaginesignage.com/widgets/add",
+    "DELETE_WIDGET": "http://cms.imaginesignage.com/widgets/delete",
+
+    "ALL_FEATURES": "http://cms.imaginesignage.com/features/",
+
+    "CONTACT_FORM": "http://cms.imaginesignage.com/contact",
+
+    "NEWSLETTER_FORM": "http://cms.imaginesignage.com/newsletter",
+
+    "SERVER_BASE_URL": "http://cms.imaginesignage.com/"
+}

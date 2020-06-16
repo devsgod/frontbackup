@@ -1,0 +1,39 @@
+{
+    "ALL_USERS": "http://46.101.138.238:4000/users/",
+    "ADD_USER": "http://46.101.138.238:4000/users/add",
+    "ADD_USER_SECURE": "http://46.101.138.238:4000/users/",
+    "DELETE_USER": "http://46.101.138.238:4000/users/delete",
+
+    "USER_AUTH": "http://46.101.138.238:4000/auth",
+    "GET_AUTH_USER": "http://46.101.138.238:4000/auth/user",
+
+    "ALL_PRODUCTS": "http://46.101.138.238:4000/products/",
+    "ADD_PRODUCT": "http://46.101.138.238:4000/products/add",
+    "DELETE_PRODUCT": "http://46.101.138.238:4000/products/delete",
+
+    "ADD_ORDER" : "http://46.101.138.238:4000/orders/add",
+
+    "ALL_BLOGS": "http://46.101.138.238:4000/blogs/",
+    "ADD_BLOG": "http://46.101.138.238:4000/blogs/add",
+    "DELETE_BLOG": "http://46.101.138.238:4000/blogs/delete",
+
+    "ALL_CLIENTS": "http://46.101.138.238:4000/clients/",
+    "ADD_CLIENT": "http://46.101.138.238:4000/clients/add",
+    "DELETE_CLIENT": "http://46.101.138.238:4000/clients/delete",
+
+    "ALL_TESTIMONIALS": "http://46.101.138.238:4000/testimonials/",
+    "ADD_TESTIMONIAL": "http://46.101.138.238:4000/testimonials/add",
+    "DELETE_TESTIMONIAL": "http://46.101.138.238:4000/testimonials/delete",
+
+    "ALL_WIDGETS": "http://46.101.138.238:4000/widgets/",
+    "ADD_WIDGET": "http://46.101.138.238:4000/widgets/add",
+    "DELETE_WIDGET": "http://46.101.138.238:4000/widgets/delete",
+
+    "ALL_FEATURES": "http://46.101.138.238:4000/features/",
+
+    "CONTACT_FORM": "http://46.101.138.238:4000/contact",
+
+    "NEWSLETTER_FORM": "http://46.101.138.238:4000/newsletter",
+
+    "SERVER_BASE_URL": "http://46.101.138.238:4000/"
+}
